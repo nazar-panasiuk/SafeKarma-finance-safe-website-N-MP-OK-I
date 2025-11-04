@@ -3,8 +3,8 @@
 }
 body {
     background: #fff;
-    background: linear-gradient(to bottom, #8cc641 0%, #e1e8ed 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8cc641', endColorstr='#e1e8ed',GradientType=0 );
+    background: linear-gradient(to bottom, #E94B3CFF 0%, #e1e8ed 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E94B3CFF', endColorstr='#e1e8ed',GradientType=0 );
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ h1 {
 .go-home {
     background: #fff;
     border: 2px solid #fff;
-    color: #8cc641;
+    color: #E94B3CFF;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 12px;
@@ -58,14 +58,14 @@ h1 {
 }
 .go-home:hover {
     background: transparent;
-    border-color: #8cc641;
+    border-color: #E94B3CFF;
 }
 a:hover .go-home {
-    color: #8cc641;
+    color: #E94B3CFF;
 }
 .go-home a {
     text-decoration: none;
-    color: #8cc641;
+    color: #E94B3CFF;
 }
 
 .footer-like {
